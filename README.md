@@ -10,3 +10,10 @@ I have imported the libraries are pandas , numpy ,matplotlib ,seaborn.
 **OBJECTIVES:**
 
 By using regression analysis to predict the price of a laptop based on its components by taking all the input parameters.
+
+
+
+**CONCLUSION:**
+
+By using LinearRegression I have got 100% accuracy and I have done lot of EDA and finally I
+got 100% accuracy and I have done DATA VISUALISATION also.
